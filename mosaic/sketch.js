@@ -13,7 +13,6 @@ function setup () {
 
 function draw(){
 	background(150);
-	mode
 
 	for(let i=0 ; i < cols ; i++ ){
 		colors[i] = [] ; 
