@@ -18,7 +18,7 @@ function draw(){
 		colors[i] = [] ; 
 		for( let j = 0 ; j < raws ; j++) {
 
-			colors[i][j] = radom(255);
+			colors[i][j] = random(255);
 		} 
 	}
 
