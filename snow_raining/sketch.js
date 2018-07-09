@@ -20,7 +20,7 @@ function setup() {
      
      }
 
-	apple = createDiv("Happy birth Day ");
+	apple = createDiv("Happy BD TO Emily");
 	// apple.id('pei');
 	// apple.position(width/2 ,height/2);
 	apple.style('color','#cc99ff')
@@ -28,10 +28,7 @@ function setup() {
 	apple.style('font-size','100px');
 	apple.style('font-family','Lucida Console, Courier, monospace');
 	apple.center();
-	
-	emily = createDiv("to Emily");
-	emily.style("'color','#cc99ff'") ; 
-	emily.style('text-align:center');
+
      
 
 }
