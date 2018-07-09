@@ -19,7 +19,7 @@ function setup() {
      
      }
 
-	apple = createDiv("Happy BD TO Emily");
+	apple = createElement("p","Happy BD TO Emily");
 	// apple.id('pei');
 	// apple.position(width/2 ,height/2);
 	apple.style('color','#cc99ff')
