@@ -1,4 +1,3 @@
-
 let particle = [] ; 
 
 function setup() {
@@ -139,5 +138,3 @@ function Particle (posx , posy) {
 // A instanceof String will be true 
 // but  => a = "APPLE"  WILL BE FASE 
 // 
-
-
