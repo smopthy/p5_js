@@ -30,7 +30,8 @@ function setup() {
 	apple.center();
 	
 	emily = createDiv("to Emily");
-	emily.style("'color','#cc99ff'")
+	emily.style("'color','#cc99ff'") ; 
+	apple.style('text-align:center');
      
 
 }
